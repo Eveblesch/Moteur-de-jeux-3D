@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes&Scripts/MiseEnPlace/Menu.unity
+    guid: 0db08c363bfa30b488c31cb5e8e14790
+  - enabled: 1
+    path: Assets/Scenes&Scripts/MiseEnPlace/Choix_niveaux.unity
+    guid: b3bca9f43951be84b89931593b5c31f5
+  - enabled: 1
+    path: Assets/Scenes&Scripts/niveau1/niveau1_facile.unity
+    guid: ca81006b8c2c8314194e047eedde22af
+  - enabled: 1
+    path: Assets/Scenes&Scripts/niveau1/niveau1_moyen.unity
+    guid: 37c78d3d71828414fbe2ab9efcee8a1c
+  - enabled: 1
+    path: Assets/Scenes&Scripts/niveau1/niveau1_difficile.unity
+    guid: 1602a6e7f45e378409c412954f6e6d5c
+  - enabled: 1
+    path: Assets/Scenes&Scripts/MiseEnPlace/retry.unity
+    guid: e40db094159cb584a94e9bf11c48f1f9
+  - enabled: 1
+    path: Assets/Scenes&Scripts/niveau2/niveau2_facile.unity
+    guid: 424275b0191941f4f8d5ce2781bbaf38
+  - enabled: 1
+    path: Assets/Scenes&Scripts/niveau2/niveau2_moyen.unity
+    guid: 6062b6a1906071b4e8e11118608fd404
+  - enabled: 1
+    path: Assets/Scenes&Scripts/niveau2/niveau2_difficile.unity
+    guid: b0f0a9728d24c284e80efd47e9403c3a
+  - enabled: 1
+    path: Assets/Scenes&Scripts/niveau3/niveau3.unity
+    guid: cc2485be3318544489d5c7dd91be22c9
+  - enabled: 1
+    path: Assets/Scenes&Scripts/MiseEnPlace/fin.unity
+    guid: 2a057690359e15b4b8f52256bff8a672
+  - enabled: 1
+    path: Assets/Scenes&Scripts/niveau4/niveau4.unity
+    guid: 1fd8cd1166a70064c9f28d318d17993e
+  m_configObjects: {}
